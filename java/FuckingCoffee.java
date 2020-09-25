@@ -5,7 +5,7 @@ public class FuckingCoffee{
 
     private static final String MY_USERNAME = "my_username";
     private static final String PASSWORD_PROMPT = "Password: ";
-    private static final String PASSWORD = "1234";
+    private static final String PASSWORD = "12345";
     private static final String COFFEE_MACHINE_IP = "10.10.42.42";
     private static int DELAY_BEFORE_BREW = 17;
     private static int DELAY = 24;
